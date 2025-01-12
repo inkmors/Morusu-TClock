@@ -75,7 +75,7 @@ app.listen(PORT, () => {
 
 
 //Criar toda de contagem de horas e minutos, 
-kajldsj
+
 //Criar rota mostrar todos os pontos
 
 //Criar opção de gerar um token de acesso, todas as empresas serão como grupos que geram um token de acesso para os colaboradores
